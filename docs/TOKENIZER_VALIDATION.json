@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "full_model_inference_tested": false,
+  "converted_tokenizer_compared": true,
+  "fixtures": [
+    {
+      "fixture": "thinking",
+      "prompt_sha256": "7f7fd0ad495d8279936d6fa4c93fad0cc8f7b670385800f583858ac53b477c16",
+      "token_count": 39
+    },
+    {
+      "fixture": "no_thinking",
+      "prompt_sha256": "7f6d473e8699a9cf22d58fe68eff1545948adf5b8753260e63f57b3d1cc1e3ae",
+      "token_count": 43
+    },
+    {
+      "fixture": "preserve_thinking",
+      "prompt_sha256": "12e0793a44d7dfb95809176fd25f346f1c5a1c16485c14347f48fa0f487f42fc",
+      "token_count": 68
+    },
+    {
+      "fixture": "remove_thinking",
+      "prompt_sha256": "bb5e93e8134508a1c2660ef7303181aff81e257b4022b0f6d889f4cedb0d1331",
+      "token_count": 63
+    },
+    {
+      "fixture": "tool_xml",
+      "prompt_sha256": "c356c1dafbb07762c07eb5814b2e398a2c7697feda66cb88ab747a8ba6061534",
+      "token_count": 367
+    },
+    {
+      "fixture": "tool_json",
+      "prompt_sha256": "16b61fe4df49a2c48b4fd83005f85707d12e492905094ec80f382f496eb33d1f",
+      "token_count": 316
+    }
+  ]
+}

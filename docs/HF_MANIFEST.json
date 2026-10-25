@@ -1,0 +1,142 @@
+{
+  "source": "Nanbeige/Nanbeige4.3-33B",
+  "revision": "c1093c501cc6460427c0ac634db7223d0450c0ee",
+  "files": {
+    "CONVERSION.json": {
+      "bytes": 7402,
+      "sha256": "592c0fd4740d6f37f6b2b69a14855fe1523e08c1d4bf00230ebdc3b176d06a9c"
+    },
+    "LICENSE": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "NOTICE": {
+      "bytes": 262,
+      "sha256": "1445dd912c7bfd073651daea65c0edf8b76ea58ebc302ecc8870e1df28aa4115"
+    },
+    "README.md": {
+      "bytes": 3515,
+      "sha256": "1360d6ab36bdbb2180214f0e75737c00131fb1362501a50aabe768660b87f143"
+    },
+    "TOKENIZER_VALIDATION.json": {
+      "bytes": 1087,
+      "sha256": "48d411d7c2f63400b36c9b3464d55617c4c8a3ceeaa51acca973a9a3cb5878cf"
+    },
+    "VALIDATION.json": {
+      "bytes": 42715,
+      "sha256": "6ca5e0a7874e5dea6ba2c6d385fd95ffd7988238da23acb54b9b6b9199ac6326"
+    },
+    "added_tokens.json": {
+      "bytes": 174,
+      "sha256": "9e3b127a27647df2c353cc1e5500826f7cdbe8bd15a458e368bba8422e9719cf"
+    },
+    "config.json": {
+      "bytes": 1057,
+      "sha256": "f5cae96aa0e65a9f2da0570dbd1263f63f5ec71a107dc0fb99c7a76f1d06d7c1"
+    },
+    "conversion/audit_package.py": {
+      "bytes": 9851,
+      "sha256": "28d14cda3047c7cd6a8b43c1931502678c9d5361af4633c8579c87a23f8fba07"
+    },
+    "conversion/check_converter.py": {
+      "bytes": 3951,
+      "sha256": "eeefe2dddf7c0400d5978c9c9e812190dd7e24b073a12258e9bf7c8c174516a8"
+    },
+    "conversion/check_tokenizer.py": {
+      "bytes": 3600,
+      "sha256": "5d61427958454b475454d28fbe1d626d0030bb6a3944ffddb0c6d4c546c9308b"
+    },
+    "conversion/convert.py": {
+      "bytes": 10264,
+      "sha256": "68c2e1e7eea666c92ab16b7f6886a8f0a01f8cc40ef2b870ce828988afefa93e"
+    },
+    "conversion/prepare.py": {
+      "bytes": 5647,
+      "sha256": "158d1c884df064139d45bf35f43d5be2b0cf653069324d105efa7b06b5d02a6d"
+    },
+    "conversion/requirements.txt": {
+      "bytes": 123,
+      "sha256": "209a3644ada93c39d2cc3928c5a87d2a1598f108527c8ae136e27c57ab363a95"
+    },
+    "generation_config.json": {
+      "bytes": 164,
+      "sha256": "fa8b09c0d2ab1db7a2736a780586df21b1602f8e02e29fa9feee325bb57d18ee"
+    },
+    "model-00001-of-00014.safetensors": {
+      "bytes": 1139603888,
+      "sha256": "ff63ce5da60750d97c018e99dc1dc1212c0d26b1455ef727a3d14e136672b835"
+    },
+    "model-00002-of-00014.safetensors": {
+      "bytes": 1395618224,
+      "sha256": "279b0dfafad870f4241a40ecb06cd45aba3a3ddcfc35f2a1294c97a537c4ba6f"
+    },
+    "model-00003-of-00014.safetensors": {
+      "bytes": 1391489080,
+      "sha256": "4ada2a2aa0c7ef268287ed5f6d6e139d02f3533028680310d03e9efefe6b79f5"
+    },
+    "model-00004-of-00014.safetensors": {
+      "bytes": 1370832104,
+      "sha256": "8768b2da407fc6206b088af0323bd8b41654275bf2fe580eb85f32df19875c1d"
+    },
+    "model-00005-of-00014.safetensors": {
+      "bytes": 1319295464,
+      "sha256": "b606cd6f1b707b4b6ed49504d92941706fb4c071e9540ea4bd15da51f51ba4cf"
+    },
+    "model-00006-of-00014.safetensors": {
+      "bytes": 1348137616,
+      "sha256": "7e9d7723ca281184cc84a7d3965057b28f537952143508fc254f82aadfd91edb"
+    },
+    "model-00007-of-00014.safetensors": {
+      "bytes": 1329617336,
+      "sha256": "443b432a1e3e0d4f8703a4c6dadc4e52d92eda0bf512bbad035810ab25da9bd9"
+    },
+    "model-00008-of-00014.safetensors": {
+      "bytes": 1406058752,
+      "sha256": "573a3d6d80b251c8fece9a006510253ab7b6d7908a296170e1b3022984ef977f"
+    },
+    "model-00009-of-00014.safetensors": {
+      "bytes": 1393541352,
+      "sha256": "5438b101a7c6359b60ea800779247574a56889fdc3df5082a3478b1d0efa33d1"
+    },
+    "model-00010-of-00014.safetensors": {
+      "bytes": 1348139376,
+      "sha256": "d9b869117c80fcd37dc802e65621eca300036a19d22ba9199110a5c5bc0e2cf5"
+    },
+    "model-00011-of-00014.safetensors": {
+      "bytes": 1377068232,
+      "sha256": "5c94911ed7161fbfa724d97a9d4d6788af30c939f951a584546fd0d8e07aac0d"
+    },
+    "model-00012-of-00014.safetensors": {
+      "bytes": 1329545096,
+      "sha256": "93d5f2873913ad2469c07b8f1de707e36b951d28ced511e94519004d255bcd4c"
+    },
+    "model-00013-of-00014.safetensors": {
+      "bytes": 1401915208,
+      "sha256": "3be185de1b2f4360c17988757caf3bb66f37d4918b511138ef4d22b24db3ddb2"
+    },
+    "model-00014-of-00014.safetensors": {
+      "bytes": 1079781848,
+      "sha256": "833ed9b967b8ea402d07670fccafcf224cc093e88f762e007f8545451043ec86"
+    },
+    "model.safetensors.index.json": {
+      "bytes": 98204,
+      "sha256": "4d71a3bec82bf8c364082cd587e473695cfb62f2e94440235e298af67b64cb40"
+    },
+    "special_tokens_map.json": {
+      "bytes": 623,
+      "sha256": "b718fce2b7a8940ffeddc1e67f3b092cc0d13ac885c63a021528786f8c4cf6c0"
+    },
+    "tokenizer.json": {
+      "bytes": 18450979,
+      "sha256": "1d858a0fc007f22af6ae18bfa1ae52d30e398aa9cd1ea06e7777176869346a3f"
+    },
+    "tokenizer.model": {
+      "bytes": 2782298,
+      "sha256": "fb41d04798b714520a9b075727b0226538b7330254299062742c50ec8374bc36"
+    },
+    "tokenizer_config.json": {
+      "bytes": 11033,
+      "sha256": "91f4aec9f1fafb9924659bc3d843130bd3b092418327f31a998156aa07aa44b7"
+    }
+  }
+}

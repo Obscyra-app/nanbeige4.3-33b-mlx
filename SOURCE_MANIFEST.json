@@ -1,0 +1,73 @@
+{
+  "files": {
+    ".gitignore": {
+      "bytes": 122,
+      "sha256": "c582c6982db71e4a573a0a121ab735f9d211596f66b8027a11b7d4238258a734"
+    },
+    "LICENSE": {
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    "NOTICE": {
+      "bytes": 262,
+      "sha256": "1445dd912c7bfd073651daea65c0edf8b76ea58ebc302ecc8870e1df28aa4115"
+    },
+    "README.md": {
+      "bytes": 3608,
+      "sha256": "b87d831f7a5443b32961a174e0604bdd55afa6cd2c3b6c33ed4632840f98efa2"
+    },
+    "conversion/audit_package.py": {
+      "bytes": 9851,
+      "sha256": "28d14cda3047c7cd6a8b43c1931502678c9d5361af4633c8579c87a23f8fba07"
+    },
+    "conversion/check_converter.py": {
+      "bytes": 3951,
+      "sha256": "eeefe2dddf7c0400d5978c9c9e812190dd7e24b073a12258e9bf7c8c174516a8"
+    },
+    "conversion/check_tokenizer.py": {
+      "bytes": 3600,
+      "sha256": "5d61427958454b475454d28fbe1d626d0030bb6a3944ffddb0c6d4c546c9308b"
+    },
+    "conversion/convert.py": {
+      "bytes": 10264,
+      "sha256": "68c2e1e7eea666c92ab16b7f6886a8f0a01f8cc40ef2b870ce828988afefa93e"
+    },
+    "conversion/finalize_source.py": {
+      "bytes": 1952,
+      "sha256": "f2918df838ca2b2981146dbc31c22fbe3e6d13b65fbedda12de05d3a7c2a2fe2"
+    },
+    "conversion/prepare.py": {
+      "bytes": 5647,
+      "sha256": "158d1c884df064139d45bf35f43d5be2b0cf653069324d105efa7b06b5d02a6d"
+    },
+    "conversion/requirements.txt": {
+      "bytes": 169,
+      "sha256": "40260f550485eeb69f5baad0f9c40db096c2561b6f3d6a6a2f4be4060412d79b"
+    },
+    "docs/CONVERSION.json": {
+      "bytes": 7402,
+      "sha256": "592c0fd4740d6f37f6b2b69a14855fe1523e08c1d4bf00230ebdc3b176d06a9c"
+    },
+    "docs/HF_MANIFEST.json": {
+      "bytes": 5153,
+      "sha256": "875847b3509f3863fd3edd37739854ea9ca0f0642df98f643c0170d55ed417f6"
+    },
+    "docs/REPRODUCING.md": {
+      "bytes": 2556,
+      "sha256": "2d3d009cd7c5b1eebf51cc90f78a3cbed55f7d95ab8551d9db43c5914eb18c86"
+    },
+    "docs/TOKENIZER_VALIDATION.json": {
+      "bytes": 1087,
+      "sha256": "48d411d7c2f63400b36c9b3464d55617c4c8a3ceeaa51acca973a9a3cb5878cf"
+    },
+    "docs/VALIDATION.json": {
+      "bytes": 42715,
+      "sha256": "6ca5e0a7874e5dea6ba2c6d385fd95ffd7988238da23acb54b9b6b9199ac6326"
+    }
+  },
+  "hf_repo": "Nurymanau/Nanbeige4.3-33B-MLX-4bit",
+  "hf_revision": "af112cf0f59bd372724b26b70f1193fecb9aef6d",
+  "upstream": "Nanbeige/Nanbeige4.3-33B",
+  "upstream_revision": "c1093c501cc6460427c0ac634db7223d0450c0ee",
+  "full_model_inference_tested": false
+}
